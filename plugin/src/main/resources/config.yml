@@ -1,0 +1,15 @@
+load: false
+
+slimeworld-manager:
+  import-world: false
+  world-name: worldName
+  world-schem: schemName
+
+default-world: "world"
+server-name: "sw01"
+
+redis:
+  address: 127.0.0.1
+  password: ""
+
+arenas: {}

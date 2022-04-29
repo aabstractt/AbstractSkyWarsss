@@ -1,0 +1,16 @@
+CHEST_VOTE_MENU_TITLE: "&a&lVotacion de Cofres"
+TIME_VOTE_MENU_TITLE: "&a&lVotacion de tiempo"
+MAIN_VOTE_MENU_TITLE: "&8Votaciones"
+
+PLAYER_JOINED: "{%0}&e entro a la partida &b({%1}/{%2})"
+PLAYER_LEFT: "{%0}&e abandono la partida &b({%1}/{%2})"
+
+GAME_START_IN: "&eLa partida comenzará en {%0} &esegundos."
+GAME_STARTED: "&e¡La partida ha comenzado!"
+
+CHESTS_REFILL_IN: "&eLos cofres se rellenaran en {%0}&e segundos."
+CHESTS_REFILLED: "&e¡Todos los &cCofres&e fueron rellenados!"
+
+PLAYER_WIN: "&aEl ganador de la partida fue &6{%0}"
+
+GAME_NOT_FOUND: "&6No se encontro ninguna arena disponible."

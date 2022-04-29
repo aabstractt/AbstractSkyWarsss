@@ -1,0 +1,8 @@
+name: VicnixSkyWarsLobby
+version: 1.0
+description: SkyWars lobby plugin
+main: dev.thatsmybaby.skywars.SkyWars
+author: iTheTrollIdk
+commands:
+  sw:
+    description: no

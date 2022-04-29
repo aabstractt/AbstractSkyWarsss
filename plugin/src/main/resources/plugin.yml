@@ -1,0 +1,22 @@
+name: VicnixSkyWars
+version: 1.0
+description: SkyWars plugin
+main: dev.thatsmybaby.skywars
+author: ProxyCode
+
+softdepend:
+  - WorldEdit
+  - FastAsyncWorldEdit
+  - SlimeWorldManager
+
+commands:
+  spawnpoint:
+    description: no
+  createmap:
+    description: no
+  forcestart:
+    description: no
+  teleportmap:
+    description: no
+  playagain:
+    description: no
